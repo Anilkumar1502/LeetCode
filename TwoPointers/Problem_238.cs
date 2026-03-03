@@ -3,7 +3,7 @@ public class Solution {
         
         int n=nums.Length;
         int[] result=new int[n];
-       // Array.Fill(result,1);
+
 
         int left=1;
         int right=1;
