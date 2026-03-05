@@ -15,6 +15,5 @@ public class Solution {
             fOdd=!fOdd;
         }
         return Math.Min(oops,eops);
-        
     }
 }
